@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "./styles.scss";
+
 
 class ProductDesc extends Component {
   handleButton() {}
