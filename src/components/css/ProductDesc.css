@@ -1,4 +1,5 @@
 .related-product {
+  text-align: center;
   margin-top: 10rem;
   margin-bottom: 5rem;
 }
@@ -7,10 +8,15 @@
   margin-bottom: 5rem;
 }
 
+
 .image-fluid {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
   padding: 10px;
   border-radius: 25px;
-  
+  margin-bottom: 0rem;
 }
 
 /*.content-details-pet{
